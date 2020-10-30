@@ -1,3 +1,3 @@
 # ScreenStop
 
-Visit https://sites.google.com/view/screen-stop-documentation/home for more information
+Visit https://aneeshnagalkar.wixsite.com/mysite and navigate to the ScreenStop project for more information
